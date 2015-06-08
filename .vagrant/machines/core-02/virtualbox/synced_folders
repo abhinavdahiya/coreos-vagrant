@@ -1,0 +1,1 @@
+{"nfs":{"core-share00":{"id":"core-share00","nfs":true,"mount_options":["nolock,vers=3,udp"],"guestpath":"/home/core/vagrant","hostpath":"/Users/Abhinav/coreos-vagrant","disabled":false,"type":"nfs","map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"843536015"}}}
